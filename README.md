@@ -9,7 +9,7 @@ To successfully complete this internship, I am tasked with building interactive 
 
 ## 📂 Project Directory (Tasks)
 
-### ✅ [Task 1: Sales Performance Dashboard]([https://github.com/787870/CODSOFT/tree/main/CODSOFT_TASKSNO_1])
+### ✅ [Task 1: Sales Performance Dashboard][https://github.com/787870/CODSOFT/tree/main/CODSOFT_TASKSNO_1]
 * **Status:** Completed
 * **Objective:** Developed an interactive dashboard to analyze retail sales performance across different products, regions, and time periods.
 * **Key Skills:** Time-intelligence DAX, conditional formatting, data type locale translation, and interactive slicers.
