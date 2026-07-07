@@ -38,4 +38,4 @@ To successfully complete this internship, I am tasked with building interactive 
 * **Data Sources:** CSV and Excel files sourced from public repositories (e.g., Kaggle, Maven Analytics)
 
 ---
-*Connect with me on [LinkedIn](http.www.linkedin.com/in/mohammed-aslam-a-363568298) to see video demonstrations of these interactive dashboards!*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-aslam-a-363568298) to see video demonstrations!*
