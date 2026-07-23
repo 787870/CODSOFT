@@ -42,4 +42,4 @@ Retail businesses generate vast amounts of data daily. To maintain profitability
 3. Use the Region and Category slicers in the top right corner to interact with the data and uncover specific insights.
 
 ---
-*Check out the live video demonstration of this dashboard on my LinkedIn: [Insert LinkedIn Video Link Here]*
+*Check out the live video demonstration of this dashboard on my LinkedIn: [(https://www.linkedin.com/posts/mohammed-aslam-a-363568298_codsoft-cip-powerbi-activity-7480825570281287680-m2sZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEf8WfsBpelwj07-q2VSFslYYAiwlYpd4uw)]*
