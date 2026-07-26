@@ -24,9 +24,10 @@ To successfully complete this internship, I am tasked with building interactive 
 * **Objective:** Developed an interactive dashboard to analyze student academic performance and attendance across different subjects and demographic groups.
 * **Key Skills:** Data merging & modeling, DAX measures (attendance percentage calculation), cross-page synced slicers, and advanced visualizations (histograms, scatter plots with trendlines, and unsummarized matrices).
 
-### ⏳ Task 4: Customer Sales Dashboard
-* **Status:** Planned
-* **Objective:** Build an analytics dashboard focusing on customer demographics, purchasing patterns, repeat customer rates, and revenue segmentation.
+### ✅ [Task 4: Customer Sales Dashboard](./CODSOFT_TASKSNO_4)
+* **Status:** Completed
+* **Objective:** Built an interactive Power BI dashboard analyzing customer purchasing behavior, regional sales distribution, and demographic segmentation to drive business growth.
+* **Key Skills:** Data transformation (Power Query unpivoting), multi-variable KPI card creation, top customer ranking matrix, and synchronized cross-filtering slicers (Region, Product Category, and Age Groups).
 
 ### ⏳ Task 5: Financial Health Dashboard
 * **Status:** Planned
