@@ -14,13 +14,17 @@ To successfully complete this internship, I am tasked with building interactive 
 * **Objective:** Developed an interactive dashboard to analyze retail sales performance across different products, regions, and time periods.
 * **Key Skills:** Time-intelligence DAX, conditional formatting, data type locale translation, and interactive slicers.
 
-### ⏳ Task 2: Employee Performance Dashboard
-* **Status:** Up Next
-* **Objective:** Create a dashboard monitoring workforce productivity, department-wise attendance, and employee performance scores to support HR decision-making.
+✅ **Task 2: Employee Performance Dashboard**
 
-### ⏳ Task 3: Student Performance Dashboard
-* **Status:** Planned
-* **Objective:** Develop an academic dashboard to analyze subject-wise student marks, attendance percentages, and grade distributions.
+* **Status:** Completed
+* **Objective:** Created a Power BI dashboard that monitors employee performance and workforce productivity to support HR decision-making[cite: 1].
+* **Key Skills:** Data visualization, KPI card creation (Total Employees, Attendance Rate, Performance Score), interactive charts for department-wise comparisons, and dynamic slicers for department, designation, and reporting periods[cite: 1].
+
+✅ **Task 3: Student Performance Dashboard**
+
+* **Status:** Completed
+* **Objective:** Developed an interactive dashboard to analyze student academic performance and attendance across different subjects and demographic groups.
+* **Key Skills:** Data merging & modeling, DAX measures (attendance percentage calculation), cross-page synced slicers, and advanced visualizations (histograms, scatter plots with trendlines, and unsummarized matrices).
 
 ### ⏳ Task 4: Customer Sales Dashboard
 * **Status:** Planned
