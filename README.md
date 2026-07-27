@@ -29,9 +29,10 @@ To successfully complete this internship, I am tasked with building interactive 
 * **Objective:** Built an interactive Power BI dashboard analyzing customer purchasing behavior, regional sales distribution, and demographic segmentation to drive business growth.
 * **Key Skills:** Data transformation (Power Query unpivoting), multi-variable KPI card creation, top customer ranking matrix, and synchronized cross-filtering slicers (Region, Product Category, and Age Groups).
 
-### ⏳ Task 5: Financial Health Dashboard
-* **Status:** Planned
-* **Objective:** Develop a comprehensive financial dashboard with KPI cards for Net Profit, Expenses, and Profit Margin, including forecasting models for future revenue.
+### ✅ [Task 5: Financial Health Dashboard](./CODSOFT_TASKSNO_5)
+* **Status:** Completed
+* **Objective:** Developed a comprehensive financial dashboard analyzing historical time-series data with KPI cards for Net Profit, Expenses, and Profit Margin, and implemented predictive forecasting models for future revenue and expenses.
+* **Key Skills:** Time-series forecasting, custom drill-through navigation, DAX measures, and data transformation (timeline standardization) for predictive analytics.
 
 ## 🛠️ Tech Stack & Tools
 * **Data Visualization & Modeling:** Power BI Desktop
